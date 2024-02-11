@@ -1,0 +1,5 @@
+[lint]
+select = ["F", "E", "W", "I", "N", "D", "C4", "ICN", "Q", "SIM"]
+
+[pydocstyle]
+convention = "google"

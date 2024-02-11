@@ -1,0 +1,6 @@
+[submodule "TrackSim"]
+	path = TrackSim
+	url = git@github.com:HeterogeneousHardwareSolutionsForDUNE/TrackSim
+[submodule "DetectorSim"]
+	path = DetectorSim
+	url = git@github.com:HeterogeneousHardwareSolutionsForDUNE/DetectorSim
